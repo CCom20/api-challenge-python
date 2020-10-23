@@ -10,6 +10,7 @@ Some overall observations:
 
 ## Part 2 - VacationPy
 
+This project considers some "ideal" weather conditions and looks at only the areas that match those conditions. It also includes a heatmap where the density is set to the humidity, the darker the red, the greater the humidity. For the spots that match ideal weather conditions, markers were placed. 
 
-* For Part I, you must include a written description of three observable trends based on the data.
-* For Part II, you must include a screenshot of the heatmap you create and include it in your submission.
+Observations: 
+* Most of the vacation spots are around the equator. 
